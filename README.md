@@ -259,11 +259,11 @@ npx hardhat test test/advanced/
 
 # ⚠️ Disclaimer
 
-For educational purposes only.
+This repository is for educational purposes only.
 
-Some contracts are intentionally vulnerable.
+Some smart contracts in this repo are intentionally vulnerable for learning and audit practice.
 
-Do not deploy on mainnet.
+Do not deploy any of these contracts on mainnet or production networks.
 
-```
-```
+Use at your own risk.
+
